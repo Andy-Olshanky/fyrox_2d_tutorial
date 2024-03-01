@@ -316,9 +316,9 @@
     scene_settings: {
         "data/scene.rgs": (
             camera_settings: (
-                position: (0.5500429, 0.5002736, -3.0),
-                yaw: 5.870001,
-                pitch: 1.2007967,
+                position: (3.0904825, 0.12650014, -3.0),
+                yaw: 6.090005,
+                pitch: 0.95079696,
             ),
             node_infos: {
                 (
@@ -802,6 +802,12 @@
                     is_expanded: true,
                 ),
                 (
+                    index: 167,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 13,
                     generation: 1,
                 ): (
@@ -974,6 +980,12 @@
                     generation: 1,
                 ): (
                     is_expanded: false,
+                ),
+                (
+                    index: 165,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
                 ),
                 (
                     index: 49,

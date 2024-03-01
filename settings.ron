@@ -316,8 +316,8 @@
     scene_settings: {
         "data/scene.rgs": (
             camera_settings: (
-                position: (0.114381924, 0.5285768, -3.0),
-                yaw: 2.6300004,
+                position: (-1.5522847, 0.5285768, -3.0),
+                yaw: 2.6100004,
                 pitch: 1.5707964,
             ),
             node_infos: {
@@ -346,14 +346,38 @@
                     is_expanded: true,
                 ),
                 (
+                    index: 44,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 51,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 58,
                     generation: 1,
                 ): (
                     is_expanded: true,
                 ),
                 (
+                    index: 75,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 76,
                     generation: 2,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 100,
+                    generation: 1,
                 ): (
                     is_expanded: true,
                 ),
@@ -382,6 +406,12 @@
                     is_expanded: true,
                 ),
                 (
+                    index: 53,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 0,
                     generation: 1,
                 ): (
@@ -403,7 +433,7 @@
                     index: 89,
                     generation: 1,
                 ): (
-                    is_expanded: true,
+                    is_expanded: false,
                 ),
                 (
                     index: 16,
@@ -448,6 +478,12 @@
                     is_expanded: true,
                 ),
                 (
+                    index: 77,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 43,
                     generation: 1,
                 ): (
@@ -461,6 +497,12 @@
                 ),
                 (
                     index: 10,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 108,
                     generation: 1,
                 ): (
                     is_expanded: true,
@@ -486,6 +528,12 @@
                 (
                     index: 98,
                     generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 47,
+                    generation: 3,
                 ): (
                     is_expanded: true,
                 ),
@@ -556,6 +604,24 @@
                     is_expanded: true,
                 ),
                 (
+                    index: 56,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 52,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 84,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 8,
                     generation: 1,
                 ): (
@@ -570,6 +636,18 @@
                 (
                     index: 92,
                     generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 110,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 55,
+                    generation: 3,
                 ): (
                     is_expanded: true,
                 ),
@@ -598,6 +676,18 @@
                     is_expanded: false,
                 ),
                 (
+                    index: 91,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 48,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 46,
                     generation: 2,
                 ): (
@@ -605,6 +695,12 @@
                 ),
                 (
                     index: 46,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 49,
                     generation: 3,
                 ): (
                     is_expanded: true,
@@ -649,7 +745,7 @@
                     index: 54,
                     generation: 2,
                 ): (
-                    is_expanded: true,
+                    is_expanded: false,
                 ),
                 (
                     index: 90,
@@ -666,6 +762,12 @@
                 (
                     index: 82,
                     generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 42,
+                    generation: 3,
                 ): (
                     is_expanded: true,
                 ),
@@ -694,6 +796,18 @@
                     is_expanded: true,
                 ),
                 (
+                    index: 50,
+                    generation: 3,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 94,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
                     index: 46,
                     generation: 1,
                 ): (
@@ -709,11 +823,23 @@
                     index: 61,
                     generation: 3,
                 ): (
-                    is_expanded: true,
+                    is_expanded: false,
                 ),
                 (
                     index: 74,
                     generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 80,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 45,
+                    generation: 3,
                 ): (
                     is_expanded: true,
                 ),
@@ -725,6 +851,12 @@
                 ),
                 (
                     index: 54,
+                    generation: 1,
+                ): (
+                    is_expanded: true,
+                ),
+                (
+                    index: 109,
                     generation: 1,
                 ): (
                     is_expanded: true,

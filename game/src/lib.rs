@@ -96,27 +96,12 @@ impl ScriptTrait for Player {
                 }
             }
 
-            if let Some(current_animation) =
-                self.animations.get_mut(self.current_animation as usize)
-            {
+            if let Some(current_animation) = self.animations.get_mut(self.current_animation as usize) {
                 current_animation.update(ctx.dt);
 
-                if let Some(sprite) = ctx
-                    .scene
-                    .graph
-                    .try_get_mut(self.sprite)
-                    .and_then(|n| n.cast_mut::<Rectangle>())
-                {
-                    sprite
-                        .material()
-                        .data_ref()
-                        .set_texture(&"diffuseTexture".into(), current_animation.texture())
-                        .unwrap();
-                    sprite.set_uv_rect(
-                        current_animation
-                            .current_frame_uv_rect()
-                            .unwrap_or_default(),
-                    );
+                if let Some(sprite) = ctx.scene.graph.try_get_mut(self.sprite).and_then(|n| n.cast_mut::<Rectangle>()) {
+                    sprite.material().data_ref().set_texture(&"diffuseTexture".into(), current_animation.texture()).unwrap();
+                    sprite.set_uv_rect(current_animation.current_frame_uv_rect().unwrap_or_default());
                 }
             }
         }
